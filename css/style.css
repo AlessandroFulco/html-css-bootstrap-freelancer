@@ -21,3 +21,8 @@ header {
     border: 3px solid black;
     min-height: 300px;
 }
+#about {
+    /* debug */
+    min-height: 300px;
+    background-color: #1abc9c;
+}
