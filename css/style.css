@@ -16,3 +16,8 @@ header {
     /* debug */
     min-height: 300px;
 }
+#portfolio {
+    /* debug */
+    border: 3px solid black;
+    min-height: 300px;
+}
