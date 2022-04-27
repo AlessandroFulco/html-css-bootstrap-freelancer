@@ -118,6 +118,11 @@ header {
     margin-bottom: 20px;
     padding-bottom: 20px;
 }
+#contact input {
+    border: none;
+    border-bottom: 1px solid #ccc;
+    border-radius: 0;
+}
 .text-area textarea {
     border: none;
     border-bottom: 1px solid #ccc;
